@@ -1,0 +1,67 @@
+---
+title: "Simulated experience"
+author: "<font style='font-weight:500;font-size:20px'>Dirk Wulff, </font><font style='font-weight:500;font-size:20px'>2022 Nov @ CDS brown bag</font><br><br><img src='https://raw.githubusercontent.com/therbootcamp/therbootcamp.github.io/master/_sessions/_image/by-sa.png' style= 'height:16.7px;vertical-align:baseline'/>
+      "
+output:
+  html_document:
+    css: index.css
+    self_contained: no
+---
+
+<br>
+
+### Harnessing simulated experiences
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/stocks.png" width=480px style="height:80px">
+</p>
+
+<div style="width:480px;padding:5px;margin-top:10px;background-color:lightblue">
+
+Try out each of the risk communication tools below (simply click on them). Only explore the tool. **Ignore the questions** following the simulation tool. 
+
+<table style="margin-bottom:10px">
+  <tr>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/description">
+    <p style="size:20px;weight:900">**Description**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/description.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/risktool">
+    <p style="size:20px;weight:900">**Risk tool**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/risktool.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/distribution">
+    <p style="size:20px;weight:900">**Distribution**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/distribution.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/experience">
+    <p style="size:20px;weight:900">**Experience**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/experience.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+  </tr>
+</table>
+
+
+When you have explored all tools, go to this <a href="https://forms.gle/TgUJ2PQnuX4qp8cHA">**questionnarie**</a> to share your impression on each of the tools.  
+
+</div>
+
+
+<div style="width:480px;padding:5px;margin-top:10px">
+
+#### References
+
+<a href="https://raw.githubusercontent.com/dwulff/SI2022_DfE/master/_sessions/_pdf/LejarragaRanganathanWulff2022.pdf">Lejarraga, T., Ranganathan, K., & Wulff, D. U. (2022). Can Simulated Experience Be Harnessed to Help People Make Investment Decisions?. PsyArXiv. doi.org/10.31234/osf.io/cw8f4</a>
+      
+<a href="https://raw.githubusercontent.com/dwulff/SI2022_DfE/master/_sessions/_pdf/HertwigWulff2021DEFramework.pdf">Hertwig, R. & Wulff, D. U. (2021). A Description–Experience Framework of the Psychology of Risk. *Perspectives on Psychological Science, 17*(3), 631-651..</a>
+
+
+</div>
+
+</td>
+</tr>
+</table>
